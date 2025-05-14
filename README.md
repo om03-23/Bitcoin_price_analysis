@@ -9,7 +9,7 @@ the project includes several critical data science components such as data clean
 This project will help you understand Bitcoin’s price trends, identify seasonal fluctuations, and forecast future prices using one of the most powerful 
 open-source forecasting tools available.
 
------
+
 🚀 Key Features
 	•	📥 Real-time Data: Download and preprocess Bitcoin’s historical price data from multiple sources.
 	•	📊 Exploratory Data Analysis (EDA): Visualize and analyze Bitcoin’s price movements, trends, and seasonality.
@@ -20,7 +20,7 @@ open-source forecasting tools available.
 	•	📉 Predict Future Trends: Generate long-term predictions and spot trends that could influence the price of Bitcoin.
 	•	📍 Insights: Understand the factors driving Bitcoin’s price, including seasonality and external market forces.
 
- --
+
 
  📅 Learning Objectives
 
@@ -31,7 +31,7 @@ This project will help you understand key concepts in:
 	•	Exploratory Data Analysis (EDA): Perform in-depth analysis to uncover patterns, correlations, and trends in Bitcoin’s price history.
 	•	Machine Learning: Gain hands-on experience with machine learning tools and models in the context of financial data prediction.
 
- --
+
  📌 How to Extend This Project
 
 If you want to take this project even further, here are a few ideas:
